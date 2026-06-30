@@ -36,4 +36,4 @@ Visit `http://localhost:3000/auth/linkedin` in your browser while the backend is
 
 ## GitHub Repository Structure
 Generated markdown files will be organized in your target repository as follows:
-`{platform}/{difficulty}/{problem-slug}.md`
+`{platform}/{problem-slug}.md`
